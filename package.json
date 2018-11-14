@@ -1,0 +1,43 @@
+{
+  "name": "hookbitcoints",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@rebass/grid": "^6.0.0-4",
+    "crocks": "^0.11.1",
+    "d3": "^5.7.0",
+    "luxon": "^1.5.0",
+    "polished": "^2.3.0",
+    "ramda": "^0.25.0",
+    "react": "^16.7.0-alpha.0",
+    "react-cache": "^2.0.0-alpha.0",
+    "react-dom": "^16.7.0-alpha.0",
+    "react-scripts": "2.1.0",
+    "react-spring": "^6.1.2",
+    "rebass": "^3.0.0-9",
+    "resize-observer-polyfill": "^1.5.0",
+    "sanctuary": "^0.15.0",
+    "styled-components": "^4.0.3",
+    "styled-components-breakpoint": "^2.1.1",
+    "styled-system": "^3.1.11",
+    "webfontloader": "^1.6.28"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "eslint-plugin-react-hooks": "^0.0.0"
+  }
+}
